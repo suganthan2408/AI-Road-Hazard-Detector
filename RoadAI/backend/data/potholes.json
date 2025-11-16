@@ -1,0 +1,90 @@
+[
+  {
+    "id": "95d9a275-525b-4cab-818e-793460eb0bcb",
+    "timestamp": "2025-11-16T09:50:40.191382",
+    "latitude": 40.71501588630638,
+    "longitude": -74.00968659924915,
+    "severity": "Low",
+    "image_url": "/images/95d9a275-525b-4cab-818e-793460eb0bcb.jpg"
+  },
+  {
+    "id": "755662a8-1748-4c3c-a295-157b8a201064",
+    "timestamp": "2025-11-16T09:50:45.180048",
+    "latitude": 40.71093902788384,
+    "longitude": -74.00425817468715,
+    "severity": "Medium",
+    "image_url": "/images/755662a8-1748-4c3c-a295-157b8a201064.jpg"
+  },
+  {
+    "id": "ed40b9ae-efad-41c3-b13d-60fdb2738104",
+    "timestamp": "2025-11-16T09:50:50.944852",
+    "latitude": 40.71413084602524,
+    "longitude": -74.00151081520197,
+    "severity": "Medium",
+    "image_url": "/images/ed40b9ae-efad-41c3-b13d-60fdb2738104.jpg"
+  },
+  {
+    "id": "d24092af-db3a-46b1-91c1-c8c1011a9f05",
+    "timestamp": "2025-11-16T09:50:57.977434",
+    "latitude": 40.710639080047734,
+    "longitude": -73.99988208576171,
+    "severity": "Low",
+    "image_url": "/images/d24092af-db3a-46b1-91c1-c8c1011a9f05.jpg"
+  },
+  {
+    "id": "515bf1b8-0a48-4b27-af92-925da59683b2",
+    "timestamp": "2025-11-16T09:51:06.913654",
+    "latitude": 40.70320417958565,
+    "longitude": -74.00178487464282,
+    "severity": "Medium",
+    "image_url": "/images/515bf1b8-0a48-4b27-af92-925da59683b2.jpg"
+  },
+  {
+    "id": "631b7390-e1f6-42a4-b14d-dab446e2d84b",
+    "timestamp": "2025-11-16T09:51:24.601554",
+    "latitude": 40.711532248842936,
+    "longitude": -74.00353262857428,
+    "severity": "Low",
+    "image_url": "/images/631b7390-e1f6-42a4-b14d-dab446e2d84b.jpg"
+  },
+  {
+    "id": "e5220dde-909d-41dc-9229-3d3a6c96d0b6",
+    "timestamp": "2025-11-16T09:54:27.936064",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "severity": "High",
+    "image_url": "/images/e5220dde-909d-41dc-9229-3d3a6c96d0b6.jpg"
+  },
+  {
+    "id": "06ad6c13-cdb0-4dac-843d-ec09912bcbf2",
+    "timestamp": "2025-11-16T09:54:30.484479",
+    "latitude": 40.7138,
+    "longitude": -74.007,
+    "severity": "Medium",
+    "image_url": "/images/06ad6c13-cdb0-4dac-843d-ec09912bcbf2.jpg"
+  },
+  {
+    "id": "41f8f790-3294-4114-86ef-bdfee6707f4a",
+    "timestamp": "2025-11-16T09:54:33.031715",
+    "latitude": 40.7118,
+    "longitude": -74.005,
+    "severity": "Low",
+    "image_url": "/images/41f8f790-3294-4114-86ef-bdfee6707f4a.jpg"
+  },
+  {
+    "id": "b316a534-9c75-40c5-986e-7f38d02fba6e",
+    "timestamp": "2025-11-16T09:54:35.598091",
+    "latitude": 40.7148,
+    "longitude": -74.004,
+    "severity": "High",
+    "image_url": "/images/b316a534-9c75-40c5-986e-7f38d02fba6e.jpg"
+  },
+  {
+    "id": "2b114e44-44af-41ae-9790-d4a5e42a749a",
+    "timestamp": "2025-11-16T09:54:38.138192",
+    "latitude": 40.7108,
+    "longitude": -74.008,
+    "severity": "Medium",
+    "image_url": "/images/2b114e44-44af-41ae-9790-d4a5e42a749a.jpg"
+  }
+]

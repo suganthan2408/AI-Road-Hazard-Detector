@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pothole Detection Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚗 AI Pothole Detection System</h1>
+            <div class="stats">
+                <div class="stat-card">
+                    <h3 id="totalCount">0</h3>
+                    <p>Total Potholes</p>
+                </div>
+                <div class="stat-card high">
+                    <h3 id="highCount">0</h3>
+                    <p>High Severity</p>
+                </div>
+                <div class="stat-card medium">
+                    <h3 id="mediumCount">0</h3>
+                    <p>Medium Severity</p>
+                </div>
+                <div class="stat-card low">
+                    <h3 id="lowCount">0</h3>
+                    <p>Low Severity</p>
+                </div>
+            </div>
+            <div class="controls">
+                <button onclick="refreshData()" class="btn btn-primary">🔄 Refresh</button>
+                <button onclick="clearAllPotholes()" class="btn btn-danger">🗑️ Clear All</button>
+                <label class="switch">
+                    <input type="checkbox" id="autoRefresh" checked>
+                    <span class="slider"></span>
+                </label>
+                <span>Auto-refresh (5s)</span>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <div class="map-section">
+                <h2>📍 Pothole Map</h2>
+                <div id="map"></div>
+            </div>
+
+            <div class="list-section">
+                <h2>📋 Recent Detections</h2>
+                <div id="potholeList"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
